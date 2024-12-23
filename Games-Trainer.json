@@ -1,7 +1,11 @@
 [
   {
-    "Name": "Devil May Cry 3",
+    "Name": "Devil May Cry 3: Special Edition",
     "URL": "https://raw.githubusercontent.com/SuperTrainerM/DMC3SETrainer/refs/heads/main/DMC3SETrainer.json"
+  },
+  {
+    "Name": "Resident Evil 4",
+    "URL": "https://raw.githubusercontent.com/SuperTrainerM/DMC3SETrainer/refs/heads/main/RE4Trainer.json"
   },
   {
     "Name": "Elden Ring",
