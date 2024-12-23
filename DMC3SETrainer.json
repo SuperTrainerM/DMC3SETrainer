@@ -1,0 +1,12 @@
+{
+  "Name": "Devil May Cry 3: Special Edition",
+  "ProcessName": "dmc3se",
+  "Options": [
+    {
+      "Name": "Red Orbs",
+      "Description": "Set your red orbs.",
+      "Address": "0x838A8C",
+      "Type": "int"
+    }
+  ]
+}
