@@ -1,0 +1,24 @@
+{
+    "Name": "Resident Evil 4",
+    "ProcessName": "bio4",
+    "Options": [
+      {
+        "Name": "Leon health",
+        "Description": "Change your current Health from Leon.",
+        "Address": "0x85F714",
+        "Type": "short"
+      },
+      {
+        "Name": "Leon's max health",
+        "Description": "Change your max health from Leon.",
+        "Address": "0x85F716",
+        "Type": "short"
+      },
+      {
+        "Name": "PTAS",
+        "Description": "Change your current PTAS.",
+        "Address": "0x85F708",
+        "Type": "int"
+      }
+    ]
+}
